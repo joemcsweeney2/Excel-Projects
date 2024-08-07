@@ -1,0 +1,8 @@
+Generating sine wave data
+Sine wave data generated
+Plot saved to buffer
+Error occurred: Don't know what to do with that image object
+Generating sine wave data
+Sine wave data generated
+Plot saved to temporary file: C:\Users\joemc\AppData\Local\Temp\tmprfg1v6jg.png
+Plot inserted into Excel
