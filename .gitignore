@@ -1,0 +1,5 @@
+ 
+# Ignore temporary files created by Microsoft Office
+~$*.*
+# Ignore temporary files with the .tmp extension
+~*.tmp
