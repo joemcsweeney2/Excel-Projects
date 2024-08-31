@@ -3,3 +3,9 @@
 ~$*.*
 # Ignore temporary files with the .tmp extension
 ~*.tmp
+# Ignore income&sales_analysis.docx
+INCOME_REGRESSION/income&sales_analysis.docx
+# Ignore raw_data_explanation.docx
+INCOME_REGRESSION/raw_data_explanation.docx.docx
+# Ignore raw_data_explanation.pdf
+INCOME_REGRESSION/raw_data_explanation.docx.pdf
